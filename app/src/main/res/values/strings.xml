@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <array name="collgname">
+        <item>MIET JAMMU</item>
+        <item>SEBIZ INFOTECH</item>
+        <item>JAMMU UNI.</item>
+        <item>GCET GOVT></item>
+        <item>IMS</item>
+    </array>
+</resources>
